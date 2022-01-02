@@ -295,7 +295,7 @@ h1,h2,h3,h4,h5,h6,p{
 .gift_box{
     position: absolute;
     bottom: -110px;
-    right: -600px;
+    right: -150px;
     float: left;
     transition: all linear .9s;
     -webkit-transition: all linear .9s;
